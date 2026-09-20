@@ -12,6 +12,7 @@
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 
 </div>
+
 原生 Swift（AppKit + SwiftUI）写的番茄钟，只住在菜单栏，不占 Dock。单文件源码，一条命令编译。
 
 ## 给谁用
