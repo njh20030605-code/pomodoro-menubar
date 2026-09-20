@@ -1,5 +1,17 @@
-# 番茄钟 · macOS 菜单栏 App
+<div align="center">
 
+# 番茄钟 · Pomodoro Menubar
+
+**原生 macOS 菜单栏番茄钟，单个 Swift 文件：25 / 3 / 15 节奏、每 45 分钟站起提醒、可拖动的悬浮计时横条。没有 Xcode 工程，一个脚本编译。**
+
+中文 | [English](README.en.md)
+
+![macOS 13+](https://img.shields.io/badge/macOS-13%2B-000000?logo=apple&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-AppKit%20%2B%20SwiftUI-F05138?logo=swift&logoColor=white)
+![Single file](https://img.shields.io/badge/%E6%BA%90%E7%A0%81-%E5%8D%95%E6%96%87%E4%BB%B6-blue)
+![License: MIT](https://img.shields.io/badge/license-MIT-green)
+
+</div>
 原生 Swift（AppKit + SwiftUI）写的番茄钟，只住在菜单栏，不占 Dock。单文件源码，一条命令编译。
 
 ## 给谁用
@@ -43,3 +55,7 @@ build.sh            一键编译打包
 ```
 
 所有偏好存在 `UserDefaults`（键名见 `main.swift` 顶部的 `Keys`），删 App 不影响系统。
+
+## 许可
+
+MIT，见 [LICENSE](LICENSE)。
