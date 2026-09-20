@@ -57,6 +57,11 @@ build.sh            一键编译打包
 
 所有偏好存在 `UserDefaults`（键名见 `main.swift` 顶部的 `Keys`），删 App 不影响系统。
 
+## 联系
+
+- 微信：**Anyway77777777**
+- GitHub：[@njh20030605-code](https://github.com/njh20030605-code)
+
 ## 许可
 
 MIT，见 [LICENSE](LICENSE)。

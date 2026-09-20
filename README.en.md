@@ -46,6 +46,11 @@ build.sh            one-shot build & package
 
 Preferences live in `UserDefaults` (keys listed at the top of `main.swift`); deleting the app leaves nothing behind.
 
+## Contact
+
+- WeChat: **Anyway77777777**
+- GitHub: [@njh20030605-code](https://github.com/njh20030605-code)
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
